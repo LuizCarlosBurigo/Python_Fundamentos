@@ -37,4 +37,25 @@
   </br>
    - [x] lambda
   </br>	
-
+  
+  <h3> Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in </h3> 
+  - [x] Arquivos
+  </br>	
+   - [x] Modulos
+  </br>	
+   - [x] Datetime
+  </br>	
+   - [x] Map
+  </br>	
+   - [x] Reduce
+  </br>	
+   - [x] Filter
+  </br>
+   - [x] List Comprehensions
+  </br>	
+   - [x] Zip
+  </br>
+   - [x] Enumerate
+  </br>
+    - [x] Erros e Excecoes
+  </br>
